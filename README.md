@@ -4,7 +4,7 @@ JustText is a chat app that you can use in your browser, without any login and w
 
 # Making a private room
 I did include a public server in this repo, but you probaly want a private chat.
-you will need to fork this repo (or download the .html file) and scroll down to line 252. Then change the "TextNumbersAndSymbols123!" to your own unique id! Make sure to keep the "" otherwise it will break.
+you will need to fork this repo (or download the .html file) open it with a text editor or edit it in github and scroll down to line 252. Then change the "TextNumbersAndSymbols123!" to your own unique id! Make sure to keep the "" otherwise it will break.
 Now that you have your own server, save the file and share it with your friends! (or upload it on github pages)
 
 # WARNING
