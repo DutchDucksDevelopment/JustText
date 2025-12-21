@@ -10,5 +10,9 @@ Now that you have your own server, save the file and share it with your friends!
 # WARNING
 I can't guarantee the safety of any of your text messages as it's being sent over servers owned by turbowarp. Don't share personal information, not with friends, and not with strangers.
 
+# Public server
 The Public server is accesible on https://dutchducksdevelopment.github.io/JustText/JustText.html or by downloading JustText.html
 The source code is also provided, that's JustText.sb3 (note that this file can't be opened in scratch as it uses custom extensions. Open in turbowarp instead)
+
+# Tools i used
+I used turbowarp (a compiled mod of scratch with lots of custom extensions) to code the actual app and server, and packaged it to html with turbowarp packager. (a tool that lets you publish scratch projects as other file types like .html and .exe) The encoded data gets sent over turbowarp's cloud variable (a variable that is syced over every client using the project) server.
