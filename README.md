@@ -7,7 +7,7 @@ I did include a public server in this repo, but you probaly want a private chat.
 __NEW METHOD:__<br>
 go to https://dutchducksdevelopment.github.io/cloud-id-renamer?txt=TextNumbersAndSymbols123 and upload the JustText.html file. Then, enter your own unique id, press enter and the downloaded file should work!<br>
 __OLD METHOD:__<br>
-you will need to fork this repo (or download the .html file) open it with a text editor or edit it in github and scroll down to line 252. Then change the "TextNumbersAndSymbols123!" to your own unique id! Make sure to keep the "" otherwise it will break.
+you will need to fork this repo (or download the .html file) open it with a text editor or edit it in github and scroll down to line 252. Then change the "TextNumbersAndSymbols123" to your own unique id! Make sure to keep the "" otherwise it will break.
 Now that you have your own server, save the file and share it with your friends! (or upload it on github pages)
 
 # WARNING
